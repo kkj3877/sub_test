@@ -1,0 +1,3 @@
+[submodule "Crypto_C"]
+	path = Crypto_C
+	url = https://github.com/kkj3877/Crypto_C.git
